@@ -150,7 +150,12 @@
     {
       "tag": "Youtube",
       "outbounds": [
-        "America"
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
       ],
       "interrupt_exist_connections": true,
       "type": "selector"
