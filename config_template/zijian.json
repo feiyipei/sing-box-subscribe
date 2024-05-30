@@ -473,7 +473,6 @@
         "rule_set": ["geoip-google", "geosite-google", "geosite-github"],
         "outbound": "Google"
       },
-      
       {
         "rule_set": ["geosite-youtube"],
         "outbound": "youtube"
