@@ -485,11 +485,12 @@
         "outbound": "OpenAI"
       },
       {
-        "rule_set": ["geosite-youtube", "geoip-google", "geosite-google", "geosite-github"],
+        "rule_set": ["geoip-google", "geosite-google", "geosite-github"],
         "outbound": "Google"
       },
       {
         "rule_set": [
+          "geosite-youtube",
           "Youtube0"
         ],
         "outbound": "Youtube"
