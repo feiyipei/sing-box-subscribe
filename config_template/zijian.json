@@ -147,7 +147,7 @@
         "Others"
       ]
     },
-        {
+    {
       "tag":"youtube",
       "type":"selector",
       "outbounds":[
@@ -474,7 +474,7 @@
         "outbound": "Google"
       },
       {
-        "rule_set": ["geosite-youtube"],
+        "rule_set": "geosite-youtube",
         "outbound": "youtube"
       },
       {
